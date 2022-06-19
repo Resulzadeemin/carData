@@ -1,28 +1,28 @@
 {
   "carData": [
     {
-      "img": "car1",
+      "url": "https://preview.colorlib.com/theme/autoroad/images/image_3.jpg",
       "model": "Chevrolet",
       "price": 25,
       "details": "Chevrolet Corvette zr1 V10",
       "id": 1
     },
     {
-      "img": "car2",
+      "url": "https://preview.colorlib.com/theme/autoroad/images/image_2.jpg",
       "model": "Moto",
       "price": 12,
       "details": "JAPON Moto",
       "id": 2
     },
     {
-      "img": "car3",
+      "url": "https://preview.colorlib.com/theme/autoroad/images/car-8.jpg",
       "model": "SUV",
       "price": 30,
-      "details": "Jeep 86",
+      "details": "Jeep Wrangler V6",
       "id": 3
     },
     {
-      "img": "car4",
+      "url": "https://preview.colorlib.com/theme/autoroad/images/car-2.jpg",
       "model": "SUV",
       "price": 35,
       "details": "Range Rover 2.0T",
