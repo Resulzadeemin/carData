@@ -1,0 +1,32 @@
+{
+  "carData": [
+    {
+      "img": "car1",
+      "model": "Chevrolet",
+      "price": 25,
+      "details": "Chevrolet Corvette zr1 V10",
+      "id": 1
+    },
+    {
+      "img": "car2",
+      "model": "Moto",
+      "price": 12,
+      "details": "JAPON Moto",
+      "id": 2
+    },
+    {
+      "img": "car3",
+      "model": "SUV",
+      "price": 30,
+      "details": "Jeep 86",
+      "id": 3
+    },
+    {
+      "img": "car4",
+      "model": "SUV",
+      "price": 35,
+      "details": "Range Rover 2.0T",
+      "id": 4
+    }
+  ]
+}
