@@ -3,6 +3,7 @@
     {
       "url": "https://preview.colorlib.com/theme/autoroad/images/image_3.jpg",
       "model": "Chevrolet",
+      "brand": "Chevrolet",
       "price": 25,
       "details": "Chevrolet Corvette zr1 V10",
       "id": 1
@@ -10,6 +11,7 @@
     {
       "url": "https://preview.colorlib.com/theme/autoroad/images/image_2.jpg",
       "model": "Moto",
+      "brand": "Chevrolet",
       "price": 12,
       "details": "JAPON Moto",
       "id": 2
@@ -17,6 +19,7 @@
     {
       "url": "https://preview.colorlib.com/theme/autoroad/images/car-8.jpg",
       "model": "SUV",
+      "brand": "Chevrolet",
       "price": 30,
       "details": "Jeep Wrangler V6",
       "id": 3
@@ -24,6 +27,7 @@
     {
       "url": "https://preview.colorlib.com/theme/autoroad/images/car-2.jpg",
       "model": "SUV",
+      "brand": "Chevrolet",
       "price": 35,
       "details": "Range Rover 2.0T",
       "id": 4
