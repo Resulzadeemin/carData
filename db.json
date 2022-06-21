@@ -24,13 +24,5 @@
       "details": "Jeep Wrangler V6",
       "id": 3
     },
-    {
-      "url": "https://preview.colorlib.com/theme/autoroad/images/car-2.jpg",
-      "model": "SUV",
-      "brand": "SUV",
-      "price": 35,
-      "details": "Range Rover 2.0T",
-      "id": 4
-    }
   ]
 }
