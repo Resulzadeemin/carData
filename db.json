@@ -2,48 +2,51 @@
     "carData": [
       {
         "url": "https://preview.colorlib.com/theme/autoroad/images/image_3.jpg",
-        "model": "Chevrolet",
         "category":[
             {
-                "brand":"Chevrolet"
+                "model":"Chevrolet"
             }
         ],
+        "brand":"Chevrolet",
         "price": 25,
         "details": "Chevrolet Corvette zr1 V10",
         "id": 1
       },
+
       {
         "url": "https://preview.colorlib.com/theme/autoroad/images/image_2.jpg",
-        "model": "Moto",
         "category":[
             {
-                "brand":"Moto"
+                "model":"Moto"
             }
         ],
+        "brand":"Moto",
         "price": 12,
         "details": "JAPON Moto",
         "id": 2
       },
+      
       {
         "url": "https://preview.colorlib.com/theme/autoroad/images/car-8.jpg",
-        "model": "SUV",
         "category":[
             {
-                "brand":"SUV"
+                "model":"SUV"
             }
         ],
+        "brand":"SUV",
         "price": 30,
         "details": "Jeep Wrangler V6",
         "id": 3
       },
+
       {
         "url": "https://preview.colorlib.com/theme/autoroad/images/car-2.jpg",
-        "model": "SUV",
         "category":[
             {
-                "brand":"SUV"
+                "model":"SUV"
             }
         ],
+        "brand":"SUV",
         "price": 63,
         "details": "Range Rover Engine 3.0",
         "id": 4
