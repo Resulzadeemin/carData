@@ -23,6 +23,14 @@
         "price": 30,
         "details": "Jeep Wrangler V6",
         "id": 3
+      },
+        {
+        "url": "https://preview.colorlib.com/theme/autoroad/images/car-8.jpg",
+        "model": "SUV",
+        "brand": "SUV",
+        "price": 30,
+        "details": "Jeep Wrangler V5",
+        "id": 3
       }
     ]
   }
