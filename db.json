@@ -1,12 +1,20 @@
 {
     "carData": [
       {
-        "url": "https://preview.colorlib.com/theme/autoroad/images/image_3.jpg",
-        "model": "Chevrolet",
-        "brand": "Chevrolet",
+        "url": "https://preview.colorlib.com/theme/autoroad/images/xcar-1.jpg.pagespeed.ic.3W271Wsyg-.webp",
+        "model": "Mercedes",
+        "brand": "Mercedes",
         "price": 25,
-        "details": "Chevrolet Corvette zr1 V10",
+        "details": "Mercedes CLK V6",
         "id": 1
+      },
+      {
+        "url": "https://preview.colorlib.com/theme/autoroad/images/car-10.jpg",
+        "model": "Mercedes",
+        "brand": "Mercedes",
+        "price": 47,
+        "details": "Mercedes GTR V10",
+        "id": 2
       },
       {
         "url": "https://preview.colorlib.com/theme/autoroad/images/image_2.jpg",
@@ -14,15 +22,23 @@
         "brand": "Moto",
         "price": 12,
         "details": "JAPON Moto",
-        "id": 2
+        "id": 3
       },
       {
-        "url": "https://preview.colorlib.com/theme/autoroad/images/car-8.jpg",
-        "model": "SUV",
-        "brand": "SUV",
-        "price": 30,
-        "details": "Jeep Wrangler V6",
-        "id": 3
+        "url": "https://preview.colorlib.com/theme/autoroad/images/car-12.jpg",
+        "model": "Audi",
+        "brand": "Audi",
+        "price":32,
+        "details": "Audi Q5 V6",
+        "id": 4
+      },
+      {
+        "url": "https://preview.colorlib.com/theme/autoroad/images/car-3.jpg",
+        "model": "Audi",
+        "brand": "Audi",
+        "price": 40,
+        "details": "Audi A5 2.T",
+        "id": 5
       }
     ]
   }
